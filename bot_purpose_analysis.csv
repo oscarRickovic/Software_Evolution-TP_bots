@@ -1,0 +1,7 @@
+bot,recent_activity
+allcontributors[bot],"CreateEvent, PullRequestEvent, IssueCommentEvent, PushEvent"
+github-actions[bot],PushEvent
+github-advanced-security[bot],"PullRequestReviewCommentEvent, PullRequestReviewEvent"
+lumberbot-app[bot],IssueCommentEvent
+mergify[bot],"CreateEvent, PullRequestEvent, PushEvent"
+transifex-integration[bot],"CreateEvent, PullRequestEvent, PushEvent"
