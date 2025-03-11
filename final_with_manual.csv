@@ -1,0 +1,41 @@
+contributor,bothunter_type,user_type,bimbas_type,confidence,acc_type
+DanielVandH,Human,Human,Human,0.959,Human
+Keno,Human,Human,Human,0.83,Human
+PhilipYip1988,Human,Human,Human,0.762,Human
+SylvainCorlay,Human,Human,Human,0.917,Human
+adrn,Human,Human,Human,0.743,Human
+allcontributors[bot],Bot,Bot,Bot,0.567,Bot Actor
+arfon,Human,Human,Human,0.798,Human
+bharatAmeria,Human,Human,Human,0.886,Human
+charlesm93,Human,Human,Bot,0.888,Needs Verification
+davidpagnon,Human,Human,Bot,0.886,Needs Verification
+editorialbot,Human,Human,Bot,0.471,Needs Verification
+eriknw,Human,Human,Human,0.9,Human
+github-actions[bot],Bot,Bot,Bot,0.145,Bot Actor
+github-advanced-security[bot],Bot,Bot,Bot,0.703,Bot Actor
+goanpeca,Human,Human,Human,0.952,Human
+imagesc-bot,Bot,Human,Human,0.145,Needs Verification
+imincik,Human,Human,Human,0.878,Human
+jgabry,Human,Human,Human,0.839,Human
+juanitorduz,Human,Human,Human,0.851,Human
+krishanbhasin-px,Human,Human,Human,0.845,Human
+lumberbot-app[bot],Bot,Bot,Bot,0.912,Bot Actor
+m-richards,Human,Human,Human,0.72,Human
+mblue9,Human,Human,Human,0.813,Human
+meeseeksmachine,Bot,Human,Bot,0.791,Bot
+mergify[bot],Bot,Bot,Human,0.786,Bot Actor
+mrocklin,Human,Human,Human,0.812,Human
+nanosoldier,Human,Human,Bot,0.896,Needs Verification
+nstarman,Human,Human,Human,0.906,Human
+pangeo-bot,Bot,Human,Bot,0.372,Bot
+petscbot,Bot,Human,Bot,0.791,Bot
+phcerdan,Human,Human,Human,0.808,Human
+richard-burhans,Human,Human,Human,0.888,Human
+ropensci-review-bot,Human,Human,Bot,0.842,Needs Verification
+scverse-bot,Bot,Human,Bot,0.262,Bot
+seberg,Human,Human,Human,0.586,Human
+tcmetzger,Human,Human,Human,0.843,Human
+transifex-integration[bot],Bot,Bot,Bot,0.535,Bot Actor
+veenstrajelmer,Human,Human,Human,0.924,Human
+welcome[bot],Bot,Bot,Bot,0.727,Bot Actor
+zacharyburnett,Human,Human,Human,0.783,Human

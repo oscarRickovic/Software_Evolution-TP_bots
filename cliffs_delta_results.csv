@@ -1,0 +1,7 @@
+Group 1,Group 2,Cliff’s Delta,Effect Size
+PR,commit,0.07009733584596402,Negligible
+PR,issue,-0.22087894537080904,Small
+PR,repo,-0.5837165131218881,Large
+commit,issue,-0.2914341685643514,Small
+commit,repo,-0.6764725376933753,Large
+issue,repo,-0.28631577696725297,Small

@@ -1,0 +1,7 @@
+Group 1,Group 2,Test Used,Test Statistic,p-value,Conclusion
+PR,commit,Mann-Whitney U,257952232.5,1.3420370182044873e-176,Reject H_0 (Significant Difference)
+PR,issue,Mann-Whitney U,187810967.0,0.0,Reject H_0 (Significant Difference)
+PR,repo,Mann-Whitney U,100347184.5,0.0,Reject H_0 (Significant Difference)
+commit,issue,Mann-Whitney U,170803283.0,0.0,Reject H_0 (Significant Difference)
+commit,repo,Mann-Whitney U,77987888.0,0.0,Reject H_0 (Significant Difference)
+issue,repo,Mann-Whitney U,172037096.5,0.0,Reject H_0 (Significant Difference)
